@@ -1,2 +1,1 @@
-arraySort SimpleDemo
-Test repository
+simpleDemo of arraySort
